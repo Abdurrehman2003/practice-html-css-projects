@@ -85,14 +85,11 @@ Here are a few resources that helped me develop these projects:
 
 ## 🎥 Demo and Showcase
 
-Check out the **live demo** of these projects here: [[Demo Link](https://your-demo-link.com).](https://beginner-projects-of-html-css.vercel.app/)
-
+Check out the **live demo** of these projects here: (https://beginner-projects-of-html-css.vercel.app/)
 Screenshots of some key projects:
 
 ![project6](https://github.com/user-attachments/assets/e1e6c46e-5e33-498a-80cc-a3918f08606e)
-
 ![image 1](https://github.com/user-attachments/assets/9d21826b-6cdf-4fba-8d7e-edc1acf2a28c)
-
 ![project4](https://github.com/user-attachments/assets/1b037cdd-702d-482a-9a30-a804ac8b81be)
 
 ---
