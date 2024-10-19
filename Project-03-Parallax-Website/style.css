@@ -1,0 +1,112 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+.pimg1 {
+  background-image: url(image1.png);
+  min-height: 100%;
+}
+.pimg2 {
+  background-image: url(image2.png);
+  min-height: 800px;
+}
+
+.pimg3 {
+  background-image: url(image3.png);
+  min-height: 800px;
+}
+
+.pimg1,
+.pimg2,
+.pimg3 {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.textBg1 {
+  background-color:  #313534;
+  color: #fff;
+  padding: 20px;
+  font-size: 40px;
+}
+.textBg2 {
+    background-color: rgba(48, 40, 40, 0.466);
+    font-weight: dark;
+    color: #fff;
+    padding: 20px;
+    font-size: 40px;
+  }
+  .textBg3 {
+    background-color: rgba(48, 40, 40, 0.466);
+    font-weight: dark;
+    color: #fff;
+    padding: 20px;
+    font-size: 40px;
+  }
+.section h2 {
+  padding: 10px 80px;
+  text-align: center;
+  font-size: 50px;
+}
+.section_light {
+  padding: 30px 80px;
+  text-align: center;
+  background-color: #f4f4f4;
+  color: #666;
+  font-size: 16px;
+  padding-bottom: 70px;
+  text-align: center;
+  text-wrap: wrap;
+ 
+}
+.section_dark {
+  padding: 10px 80px;
+  text-align: center;
+  background-color: #282e34;
+  color: #ddd;
+  font-size: 16px;
+ }
+ 
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    scroll-behavior: smooth;
+}
+.back-to-top:hover {
+    background-color: #555;
+  }
+ 
+  @media (max-width: 768px) {
+    /* styles for screens smaller than 768px */
+  }
+  
+  @media (min-width: 769px) and (max-width: 1024px) {
+    /* styles for screens between 769px and 1024px */
+  }
+  
+  @media (min-width: 1025px) {
+    /* styles for screens larger than 1024px */
+  }
